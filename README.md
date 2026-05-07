@@ -14,13 +14,13 @@ ezDOM은 HTML 요소를 자동으로 수집하여 JavaScript 객체처럼 읽고
 ### 1. 스크립트 로드
 
 ```html
-<script src="ezDOMv1_1_4.js"></script>
+<script src="ezDOM.js"></script>
 ```
 
 또는 Node.js 환경에서:
 
 ```js
-const ezDOM = require('./ezDOMv1_1_4.js');
+const ezDOM = require('./ezDOM.js');
 ```
 
 ### 2. 인스턴스 생성
